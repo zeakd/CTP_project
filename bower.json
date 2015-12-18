@@ -1,0 +1,30 @@
+{
+  "name": "color-sound",
+  "description": "CTP final project",
+  "main": "gulpfile.js",
+  "authors": [
+    "zeakd <stuzeakd@kaist.ac.kr>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "sound",
+    "webaudio",
+    "color",
+    "CTP",
+    "kaist"
+  ],
+  "homepage": "https://zeakd.github.io/CTP_project/demo",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "tone": "*",
+    "chroma": "~1.2.1",
+    "chroma-js": "~1.1.1"
+  }
+}
